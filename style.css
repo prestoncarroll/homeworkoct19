@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+.navbar-light .navbar-brand { background-color: teal;
+color: white;
+}
+
+
+
+
+
+h1 { background-color: teal;
+color: white;
+margin-left: 2em;
+}
+
+p {border: darkturquoise;
+border-style: groove;}
+
+footer { font-size: small;
+margin-left: inherit;
+padding-top: 10%;}
+
+button { margin-left: 30%;}
+
+
+
+
+/* 
+
+Notes: 
+
+position: relative -- property on parent elemnt that has children behave relative to parent
+
+position: absolute - property on child element thatallows you to position child absolutely from top, bottom, left or right "relative" to parent. 
+
+*/
